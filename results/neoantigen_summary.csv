@@ -1,0 +1,5 @@
+Tumour,candidate_neoantigens,unique_genes,hla_alleles,best_mut_mhcrank_el
+WD06,66,50,HLA-A02:01;HLA-A24:02,0.0156
+WD13,37,30,HLA-A02:01;HLA-A24:02,0.0046
+WD14,8,7,HLA-A02:01;HLA-A24:02,0.1017
+WD22,70,56,HLA-A02:01;HLA-A24:02,0.0098

@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Bioinformatics large/intermediate files
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.bcf
+*.maf
+*.bed.gz
+*.bigWig
+*.bw
+*.h5
+*.h5ad
+*.loom
+*.rds
+*.RData
+
+# Large compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Keep small documented examples and report artifacts tracked intentionally.
+!data/example/
+!data/example/**
+!reports/
+!reports/**
